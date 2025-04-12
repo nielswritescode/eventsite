@@ -24,13 +24,32 @@ I'll leave these 3 questions here instead:
 - To what degree does your experience of an event change when there is an entry fee?
 - Is there a possibility for an entirely different philosophy behind event organization?
 
+## What are you receiving exactly?
+
+So, first of all, this is not meant to gaslight anyone into contributing. It is merely meant to get an understanding of what it takes to 
+organize. You are receiving it unconditionally and you are worth it.
+
+The amount of time and energy it takes to organize an event is commonly underestimated. I have ocasionally spent over 70 hours on a 2-hour workhop.
+
+For me, organizing an event requires:
+
+- Maintaining an active network of people
+- Promoting the event
+- Keeping up my own practice for anything I teach
+- Investing financially in spaces
+- Arranging transport for people, props & prerequisites
+- Learn various challenging social and spiritual skills due to the innovative nature of my events
+- Keeping up the IT infrastructure
+- Preparing the event: writing, meetings, practice etc.
+- Making tea & otherwise create a comfortable atmosphere for participants
+- Dealing with edge-cases, no-shows and practical issues
+- The list goes on...
+
 ## How to contribute
 
 There is no expectation to contribute. Nor is it dependent on your (financial) situation. You're welcome to not do so your entire life. 
 
-Organizing events takes my time, energy and money. I have to keep up my own practice. Learn various very challenging social and networking skills. Use my personal financial and social resources to give unconditionally. Specialize in challenging spiritual topics while also keeping my own relationships and lifestyle healthy (I'm very, very imperfect)
-
-So if you attended one of my events, and you have found a place of unconditional giving in yourself. You could support me by: 
+However, if you attended one of my events, and you have found a place of unconditional giving in yourself. You could support me by: 
 
 - A financial contribution in cash
 - Sharing your top 3 skills for me to call upon
