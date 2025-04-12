@@ -3,6 +3,8 @@ layout: home
 title: Unconditional Events
 permalink: /
 ---
+Unconditional events is an independent social initiative that aims to facilitate authentic human connection at zero cost.
+For now, the philosophy is written in the 'I' form. As I get more experience, the philosophy grows and people join in, I will try to generalize it.
 
 Hi! I'm Niels, and I'm attempting to realize my philosophy for organizing events unconditionally. 
 It is about events one could call spiritual. However, to me they're just ways to connect to yourself, others

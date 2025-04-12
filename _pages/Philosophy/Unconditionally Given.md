@@ -59,4 +59,15 @@ However, if you attended one of my events, and you have found a place of uncondi
 
 You can reach me at **unconditionalevents@proton.me**
 
+## F.A.Q.
 
+### Why do you not just ask for donations?
+I think that setting the price for the event to any type of donation (sliding scale, free choice, recommended price) creates 
+an expectation to donate which will influence the space. I'm attempting to create the reverse experience. The event is given, 
+and any donations help me to balance out the amount of energy I invest. 
+
+### Is there an option to donate online?
+As of now, no. I don't want to get involved with platform fees and registered transactions as of now. This will push me towards
+becoming an official organization which will once again push the philosophy towards commercialization. I could imagine making some 
+sort of non-profit sister organization in the background to handle the official stuff, but that's a long way from now. If you absolutely
+want to donate online I could send you my private bank account details.

@@ -6,4 +6,4 @@ category: Jekyll
 layout: post
 ---
 
-Contact me personally @ **unconditonalevents@proton.me** 
+Contact me personally @ **[unconditionalevents@proton.me](mailto:unconditonalevents@proton.me)** 
