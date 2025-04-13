@@ -22,6 +22,7 @@ Relevant Experience:
  		- Whatever came up in the moment
  - 50+ Massages Given
  		- Mix of triggerpoint / relaxation / conscious massage
+ - 50H Yin YTT 
  - Lots of personal relating practices in my own relationships
  
 Traumas:
@@ -30,6 +31,13 @@ Traumas:
  - Tinnitus
  - Heavy Concussion (1yr bedridden with many secondary issues)
  - Meeting Sexual & Emotional Needs
+ 
+Main Influences:
+ - Hübl, T., & Avritt, J. J. (2020). Healing collective trauma: A process for integrating our intergenerational and cultural wounds. Sounds True.
+ - Parker, Priya. *[The Art of Gathering](https://www.priyaparker.com/book-art-of-gathering)*. Riverhead Books, 2020.
+ - [Thich Nhat Hanh](https://plumvillage.org/about/thich-nhat-hanh)
+ - [Jon Kabat Zinn](https://www.youtube.com/watch?v=2n7FOBFMvXg) 
+ - Many persons I've met throughout my life.
  
 Get to know me: 
  - [Youtube](https://www.youtube.com/@journeyofniels)
@@ -41,4 +49,4 @@ Get to know me:
  - Is mainly oriented towards students (although generally inclusive)
  - Has a membership fee (but only 15 euro for a 3 year membership to get us officialy recognized)
  
- Without this organization I wouldn't be anywhere at all. I feel an incredible amount of love towards this community.
+ >"Without this organization I wouldn't be anywhere at all. I feel an incredible amount of love towards this community." -Niels

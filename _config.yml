@@ -19,7 +19,7 @@ rss:              RSS
 toc:
   enabled: true
   h_min:   1
-  h_max:   3
+  h_max:   5
 
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
 favicon_path:     /assets/gitbook/images/favicon.ico
@@ -52,15 +52,19 @@ exclude:
 collections:
   pages:
     output: true
+    sort_by: name
     permalink: /:collection/:path/
   others:
     output: true
     permalink: /:collection/:path/
+  philosophy:
+    output: true
+    sort_by: name
+    permalink: /:collection/:path/
 
 ordered_collections:
-  - posts
   - pages
-  - others
+  - philosophy
 
 page_width: 800px
 

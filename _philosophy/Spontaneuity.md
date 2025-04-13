@@ -13,7 +13,7 @@ While there is a sign-up for most of my events to:
 
 ...you are welcome to join spontaneously without signing up, as long as you have no expectations!
 
-I think the ability to join an event spontaneously is important because: 
+Wethink the ability to join an event spontaneously is important because: 
  - It allows someone to live a more spontaneous lifestyle, being more aligned with their needs in the moment.
  - It reduces stress from having a fully planned life.
  - It allows for a more flexible social life. (It's possible to invite a friend or stranger you just met to come with you last minute!)

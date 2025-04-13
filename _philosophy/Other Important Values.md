@@ -6,7 +6,7 @@ category: Jekyll
 layout: post
 ---
 
-While my events focus mostly on authenticity and decommercializing by unconditional giving, I strive to include these values as much as possible as well.
+While my events focus mostly on authenticity and decommercializing by unconditional giving, Westrive to include these values as much as possible as well.
 However, we're moving mountains here so I'm more likely to do concessions to these values. 
 
 - Inclusivity 
