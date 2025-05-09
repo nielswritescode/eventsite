@@ -1,5 +1,5 @@
 ---
-title: Organizers
+title: Authors
 author: Niels Valent
 date: 12/4/2025
 category: Jekyll
@@ -43,10 +43,3 @@ Get to know me:
  - [Youtube](https://www.youtube.com/@journeyofniels)
  - [Insight Timer](https://insighttimer.com/nielsvalent/guided-meditations)
  
-# Organizations
-[Student Meditation](https://www.studentmeditation.nl)
-
- - Is mainly oriented towards students (although generally inclusive)
- - Has a membership fee (but only 15 euro for a 3 year membership to get us officialy recognized)
- 
- >"Without this organization I wouldn't be anywhere at all. I feel an incredible amount of love towards this community." -Niels
