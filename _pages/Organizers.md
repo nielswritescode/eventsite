@@ -8,7 +8,7 @@ layout: post
 
 # Persons
 
-## Niels Valent (Founder of UC and facilitator)
+## Niels Valent (Initiator of UC and facilitator)
 
 Relevant Experience:
  - 3000+ hours of meditation

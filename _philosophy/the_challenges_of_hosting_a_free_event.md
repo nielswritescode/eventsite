@@ -18,7 +18,7 @@ With high-end, expensive gatherings dominating the spectrum, the UE being free-o
 
 - The term 'free' has been widely abused for online marketing purposes. It is often used by paid services as a false statement to maliciously attract people. This has created distrust around the term (GK).
 
->_"Click here to watch this new movie for FREE!" _
+>_"Click here to watch this new movie for FREE!"_
 
 - There might be secondary motives for people to organize free events. For example, (religious) beliefs, political views or personal motives. When no other obvious motives are present, people might question the organizers' secondary motives. For UO, this might be particularly challenging as the organizer has to actually organize the event unconditionally to gain trust. If they are still hosting from personal motives (without making that clear) it will not be possible to remove this layer of distrust.
 - Due to a combination of aforementioned patterns, branding an event as 'free' will impose selection upon the participants. People with high marketing distrust or high expectations of perceived quality will likely not attend the event.
