@@ -56,3 +56,10 @@ However:
 
 ## An alternative perspective
 FoG without credentials could be an important tool for UO. As long as facilitators are integer and teach according to their carrying capacity, it could improve collective healing by increasing the available spectrum of events. The first step is in being able to discuss this alternate perspective without immediately discarding it as 'unsafe'.
+
+## Criticism
+This view receives a lot of criticism which makes sense. For feedback coming from commercial teachers we'd like to ask:
+
+- How does their own investment and dependability on commercialism alter the way they view this perspective? Is it possible to be truly neutral & non-judgemental?
+
+> To even suggest that FoG without credentials could be a thing, could be triggering for those teachers. 
