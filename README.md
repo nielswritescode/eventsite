@@ -4,16 +4,24 @@ title: Unconditional Events
 permalink: /
 ---
 
-# Project: Legitimizing a different way of organizing healing gatherings: *Unconditional Organizing* by providing a community-maintained framework.
-This project aims to create a community-maintained framework for a new way
-of organizing gatherings which we’ll call Unconditional Organizing(UO). The
-framework should be free and accessible online and be open for suggestions
-from anyone. People can adapt the framework to their own needs. The goal of
-the framework is to make it easier for individuals and communities interested
-in UO to organise their gatherings and provide legitimacy.
-The framework will be aimed at individuals and communities, not at organizations, though this could be implemented later.
+# Project: Moving towards Unconditional Organizing. Exploring the decommercialization of healing gatherings as a first step. 
+Imagine there would be an abundance of healing gatherings available every day. At zero cost, inclusive and run by highly enlightened facilitators. Gatherings with very little conditions. Spontaneous entry possible.
 
-## What is UO?
+> You wake up on a monday and decide today you'd like to receive a massage, some somatic guidance and dance in connection with the community.
+
+This would be the utopia of Unconditional Organizing.
+
+There have been improvements in the spirit of UO such as the rise in collective awareness and standards on inclusivity. 
+
+In this project, we aim to introduce a new step on the journey towards UO: the decommercialization of healing gatherings as a mindset change.
+
+We take a look at the status quo and suggest guidelines for hosting healing gatherings from a decommercialized perspective in the spirit of UO.
+
+This project is meant to offer legitimacy to this new perspective because it is quite distant from the status quo and therefore quickly rejected which we feel it does not deserve. We think it deserves to be taken into account non-judgementally. One could argue that the status quo is actually quite problematic and that fresh new perspectives should be received gratefully.
+
+It also aims to build a theoretical foundation for decommercialized organizing and share knowledge and insights in order to improve together.
+
+## What is decommercialized organizing?
 It is simultaneously incredibly complicated and extremely simple.
 
 Simple:
