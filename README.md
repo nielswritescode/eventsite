@@ -4,45 +4,25 @@ title: Unconditional Events
 permalink: /
 ---
 
-# Project: Moving towards Unconditional Organizing. Exploring the decommercialization of healing gatherings as a first step. 
-Imagine there would be an abundance of healing gatherings available every day. At zero cost, inclusive and run by highly enlightened facilitators. Gatherings with very little conditions. Spontaneous entry possible.
+# Project: Exploring the case of total decommercialization of healing gatherings in Unconditional Organizing.
 
-> You wake up on a monday and decide today you'd like to receive a massage, some somatic guidance and dance in connection with the community.
+Unconditional Organizing (UO) is the act of organizing a gathering or event with no conditions attached. In reality, there will always be conditions, so we see UO as a greyscale with on one end ultra-commercial gatherings and on the other end unconditional gatherings hosted by highly enlightened individuals.
 
-This would be the utopia of Unconditional Organizing.
+In this project, we explore the specific case of total decommercialization in the spirit of UO, which we'll refer to as *sulfur*. (A beautiful word to refer to this beautiful concept)
 
-There have been improvements in the spirit of UO such as the rise in collective awareness and standards on inclusivity. 
+We first make our claims:
 
-In this project, we aim to introduce a new step on the journey towards UO: the decommercialization of healing gatherings as a mindset change.
+- We do not claim that *sulfur* is 'good', or that it should be implemented. 
+- We do claim that *sulfur* could have great potential for collective healing.
+- We also claim that *sulfur* is a concept worthy of research. That is is worthy of discussion and to be experimented with (practical experience is needed in order to understand the concept).
 
-We take a look at the status quo and suggest guidelines for hosting healing gatherings from a decommercialized perspective in the spirit of UO.
+Then we describe what the project aims for:
 
-This project is meant to offer legitimacy to this new perspective because it is quite distant from the status quo and therefore quickly rejected which we feel it does not deserve. We think it deserves to be taken into account non-judgementally. One could argue that the status quo is actually quite problematic and that fresh new perspectives should be received gratefully.
+- To describe the relation of current events to UO.
+- To provide a comprehensive basis of knowledge and insights so *sulfur* can be more easily discussed on a deeper level.
+- To provide a framework for organizers interested in *sulfur*, allowing them to start organizing in this way and gain new insights.
 
-It also aims to build a theoretical foundation for decommercialized organizing and share knowledge and insights in order to improve together.
-
-## What is decommercialized organizing?
-It is simultaneously incredibly complicated and extremely simple.
-
-Simple:
-
-- Gatherings of people have an amazing potential for healing. In UO, it is
-aimed to realize these without expecting anything in return.
-
-Complicated:
-
-- In UO, there might be huge potential for healing from collective trauma.
-It will require a mindset and paradigm change. Non-dualistic thinking
-and the exploring of taboos and extremes is involved(as of now). It is
-currently a mountain to be moved, and this project aims to take the first
-baby step.
-
-That is what the project is going to be about! Taking small steps. We’re going to write on topics such as:
-
-- Decommercializing gatherings
-- Allowing teacher vulnerability in non-commercial gatherings
-- Teaching without credentials & the link to non-commercialism
-- The challenge of hosting free events
+This project challenges foundational societal structures, common ethics and taboos. It will therefore receive a lot of criticism. I, as the initiator, am by no way integer enough to write the whole thing. I therefore wish to write it together with a community. I think the project could gain a lot of strength when it is being worked on by many passionate individuals. This is not for the faint hearted. Are you passionate about contributing? Please do write us an e-mail.
 
 # Who are needed for this project?
 Anyone with passion & who gets what this project is trying to achieve.
