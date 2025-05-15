@@ -6,15 +6,9 @@ category: Jekyll
 layout: post
 ---
 
-In this article we set a definition for _Unconditionlly Given_ as a cost type.
+This section is part of a practical *sulfur* framework. It is meant as an example to the *sulfur* theory.
 
-### Compromises
-
-Naturally, when this framework is practically adopted, there will be a push to make compromises. We would like to stress that any compromises made to this particular element should be considered with great care, as there is a very thin line where a compromise entails the change of the entire energy behind the gathering.
-
-Which compromises should be made is entirely context-dependent.
-
-We actually give a definition for a decommercialized event in the spirit of unconditional giving. There is no point to decommercialize if not in this spirit, and the term 'decommercialize' sounds a bit activistic which is not what this framework is trying to achieve (although it could potentially be used that way). The practical reality of unconditional meaning no condition = no entry fee makes this term still very suitable for this way of organizing.
+Gatherings always have a cost type, such as free, paid, or donation-based. *Sulfur* needs a new cost type. We propose the name *Unconditionally Given* and set some guidelines for this cost type.
 
 ### Guidelines
 - There is no entry fee for the gathering.
@@ -28,6 +22,12 @@ We actually give a definition for a decommercialized event in the spirit of unco
 - The event is not used for marketing or promotion of any kind
 
 > When the facilitator mentions their commercial activities at the end of an event, it alters the energy of the event. The event was not unconditionally given because the participants can't be sure that the event was not a 'free sample' to get them hooked on the service the facilitator provides.
+
+- The event strives to be unconditional in all other economic regards.
+
+- The event can ask for and receive (financial) gifts that were unconditionally given by the participants. It is important to frame this correctly and that no implicit expectation is created. 
+
+> A gift is not unconditional when the participant expects it to contribute to future events.
 
 ## Organizing investment
 The amount of time and energy it takes to organize an event is commonly underestimated.
@@ -47,3 +47,9 @@ Examples of what it takes to organize an event:
 - The list goes on...
 
 We can conclude that there is a significant energy investment for the organizer(s). To give unconditionally in all of these areas is likely to be a challenge for the organizer.
+
+### Compromises
+
+Naturally, when this framework is practically adopted, there will be a push to make compromises. We would like to stress that any compromises made to this particular element should be considered with great care, as there is a very thin line where a compromise entails the change of the entire energy behind the gathering.
+
+Which compromises should be made is entirely context-dependent.
