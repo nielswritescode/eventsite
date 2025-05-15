@@ -8,13 +8,6 @@ layout: post
 
 In this article we set a definition for _Unconditionlly Given_ as a cost type.
 
-## Setting a definition
-The idea of UO is to create a healing gathering without conditions. There are many types of conditions, ranging from the very obvious (an entry fee) to the very complex (hardly noticable subconscious conditions which has roots in personal trauma).
-
-> Imagine an organizer who rejects certain personality types unknowingly due to youth experiences, and makes them feel less welcome. The condition for the gathering will now be: Don't be of that personality type.
-
-While many angles at removing such conditions are already being taken (the rise of inclusivity & relating practices). We claim that these angles currently only have impact on the surface. And while that could eventually provide a bigger shift in how our gatherings are organized, UO aims to challenge the root of Western FoG by taking decommercialization as a starting point.
-
 ### Compromises
 
 Naturally, when this framework is practically adopted, there will be a push to make compromises. We would like to stress that any compromises made to this particular element should be considered with great care, as there is a very thin line where a compromise entails the change of the entire energy behind the gathering.
