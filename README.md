@@ -4,8 +4,7 @@ title: Unconditional Events
 permalink: /
 ---
 
-# Project: The organizing of healing gatherings without expectation of reciprocity
-in unconditional organizing.
+# Project: The organizing of healing gatherings without expectation of reciprocity in unconditional organizing.
 
 Unconditional Organizing (UO) is the act of organizing a gathering or event with
 no conditions attached. In reality, there will always be conditions, so we see
