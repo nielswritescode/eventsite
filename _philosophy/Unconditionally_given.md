@@ -6,9 +6,9 @@ category: Jekyll
 layout: post
 ---
 
-This section is part of a practical *sulfur* framework. It is meant as an example to the *sulfur* theory.
+This section is part of a practical *TIDSUO* framework. It is meant as an example to the *TIDSUO* theory.
 
-Gatherings always have a cost type, such as free, paid, or donation-based. *Sulfur* needs a new cost type. We propose the name *Unconditionally Given* and set some guidelines for this cost type.
+Gatherings always have a cost type, such as free, paid, or donation-based. *TIDSUO* needs a new cost type. We propose the name *Unconditionally Given* and set some guidelines for this cost type.
 
 ### Guidelines
 - There is no entry fee for the gathering.

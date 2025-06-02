@@ -23,6 +23,24 @@ There are many types of conditions, ranging from the very obvious (an entry fee)
 to the very complex (hardly noticable subconscious conditions which has roots in
 personal trauma).
 
+Let's list a few:
+
+- To bring your phone to the gathering (to show tickets or book a locker)
+- An entry fee
+- To be clothed a certain way
+- To comply with common ethics & morals
+
+> This might seem obvious, but there is a counterexample. A pedophile was not kicked
+out of a 'rainbow' gathering because the gathering was set on being unconditional. This then caused 
+almost all the other participants to leave and the gathering ceased to be. Perhaps 
+perfect unconditionality is also not desired?
+
+- To be of certain gender, political view or race
+- To leave a donation at the end
+- To do what the teacher says
+
+> A person was told to comply with the teacher or leave when he wanted to do a slightly different shavasanah in a yoga class (Our personal experience).
+
 ## An utopia for UO
 Imagine there would be an abundance of healing gatherings available every day.
 At zero cost, inclusive and run by highly enlightened facilitators. Gatherings
