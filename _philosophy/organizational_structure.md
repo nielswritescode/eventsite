@@ -1,0 +1,8 @@
+---
+title: Organizational structure
+author: Niels Valent
+date: 12/4/2025
+category: Jekyll
+layout: post
+---
+
