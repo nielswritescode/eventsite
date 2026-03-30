@@ -1,4 +1,10 @@
-## Nielsevents in the scope of an unconditional organizing network
+---
+title: Nielsevents in the scope of an unconditional organizing network
+author: Niels Valent
+date: 12/4/2025
+category: Jekyll
+layout: post
+---
 
 I see nielsevents as an *instance* of an unconditional organizing philosophy (UOP), or an unconditional organizing authority (UOA). These 2 (UOP and UOA) can be used interchangeably, because a philosophy shapes how people think and thus has power. I believe power should be used responsibly or not at all. Using power makes one an authority. So any UOP is also an UOA.
 
